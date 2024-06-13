@@ -7,4 +7,4 @@
   - functional programming languages
 - 🌱  I’m currently learning about life in general
 - 💞️  I’m looking to collaborate on music, audio, and prototyping related software and hardware
-- 📫  How to reach me... find me in the Matrix!
+- 📫  How to reach me... find me in the [Matrix](https://matrix.org)!
